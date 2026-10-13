@@ -1,0 +1,6 @@
+{
+  "name": "CreatorPilot AI",
+  "description": "Grow your YouTube channel with AI. Your AI YouTube Growth Strategist that analyzes your channel, identifies opportunities, and generates content plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
